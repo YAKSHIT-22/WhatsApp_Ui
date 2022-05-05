@@ -1,6 +1,6 @@
 <h2 align="center">🆆🅷🅰🆃🆂🅰🅿🅿 🆄🅸</h2>
 
-<h3 align="center">This Is Basic WhatsApp UI</h3>
+<h3 align="center">This Is A Basic WhatsApp UI</h3>
 <br>
 <img src="whatsapp.png">
 A New Flutter Project.
