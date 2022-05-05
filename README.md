@@ -3,7 +3,7 @@
 <h3 align="center">This Is Basic WhatsApp UI</h3>
 <br>
 <img src="whatsapp.png">
-A new Flutter project.
+A New Flutter Project.
 
 ## Getting Started
 
